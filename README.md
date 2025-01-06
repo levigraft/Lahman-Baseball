@@ -4,6 +4,14 @@
 
 ### Use SQL queries to find answers to the *Initial Questions*. If time permits, choose one (or more) of the *Open-Ended Questions*. Toward the end of the bootcamp, we will revisit this data if time allows to combine SQL, Excel Power Pivot, and/or Python to answer more of the *Open-Ended Questions*.
 
+## Lahman Baseball Dashboard
+
+![Screenshot 2025-01-06 115000](https://github.com/user-attachments/assets/6ce5a33a-8179-4872-a195-ea68fde66702)
+![Screenshot 2025-01-06 115009](https://github.com/user-attachments/assets/6716b27d-e7c5-419a-89e4-40a76e21316a)
+![Screenshot 2025-01-06 115015](https://github.com/user-attachments/assets/b7bbe717-78df-4111-8ae5-7e6b8d094388)
+![Screenshot 2025-01-06 115023](https://github.com/user-attachments/assets/a00379cb-9fdf-4a79-b674-906036276436)
+![Screenshot 2025-01-06 115031](https://github.com/user-attachments/assets/6b3c56d0-e444-44e6-ab90-ac457c78600a)
+![Screenshot 2025-01-06 115044](https://github.com/user-attachments/assets/e9871038-4abb-4c00-bd3d-dd90d53c4d39)
 
 
 **Initial Questions**
